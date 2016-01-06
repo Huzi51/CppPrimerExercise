@@ -1,0 +1,73 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Sep 25 21:47:29 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22021 20593 341965 635000) (desktop . "206") "archie@www.huzi.com" nil nil ((((font-backend xft x) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#1B1D1E") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 9) (right-fringe . 9) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#F8F8F0") (sticky) (environment) (frameset--id . "D865-8206-38A1-22C6") (frameset--mini t . t) (height . 35) (width . 80) (modeline . t) (minibuffer . t) (unsplittable) (left . 393) (top . 83) (icon-name) (visibility . t) (display . ":0.0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 72) (min-pixel-width . 90) (min-pixel-height-ignore . 54) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 18) (min-pixel-width-safe . 18)) leaf (pixel-width . 738) (pixel-height . 570) (total-width . 82) (total-height . 31) (normal-height . 1.0) (normal-width . 1.0) (buffer "Sales_data.hpp" (selected . t) (hscroll . 0) (fringes 9 9 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1994) (start . 1663))))])
+(setq extended-command-history nil)
+(setq file-name-history '("~/books/Cpp/chap7/Person.Hpp" "/home/archie/books/Cpp/chap7/bookStore.cpp" "~/books/Cpp/chap7/constructor_test.cpp" "~/books/Cpp/chap7/Sales_data.hpp" "~/books/Cpp/chap1/Sales_item.h" "~/books/Cpp/chap7/bookStore.cpp" "~/books/Cpp/chap7" "~/books/Cpp/chap2/Sales_data.hpp" "~/books/Cpp/chap6/chap6.hpp" "~/books/Cpp/chap6/function_ptr.cpp" "~/books/Cpp/chap6/test_make_plural.cpp" "/home/archie/books/Cpp/chap6/chap6.hpp" "/home/archie/books/Cpp/chap6/make_plural.cpp" "~/books/Cpp/chap6/print_vector.cpp" "~/books/Cpp/chap6/test_arrPtr.cpp" "~/books/Cpp/chap6/ex36.cpp" "~/books/Cpp/chap6/test_print_vec.cpp" "/home/archie/books/Cpp/chap6/ex32.cpp" "~/books/Cpp/chap6/test_subrange.cpp" "~/books/Cpp/chap6/str_subrange.cpp" "/home/archie/books/Cpp/chap6/swap_ptr.cpp" "~/books/Cpp/chap6/test_sum_if.cpp" "~/books/Cpp/chap6/sum_if.cpp" "/home/archie/books/Cpp/chap6/ex26.cpp" "~/books/Cpp/chap6/ex25.cpp" "/home/archie/books/Cpp/chap6/test_print2.cpp" "~/books/Cpp/chap6/print3.cpp" "~/books/Cpp/chap3/test_print2.cpp" "~/books/Cpp/chap3/print2.cpp" "~/books/Cpp/chap6/test_print.cpp" "~/books/Cpp/chap6/print.cpp" "~/books/Cpp/chap6/print_cstring.cpp" "/home/archie/books/Cpp/chap6/test_print_cstring.cpp" "/home/archie/books/Cpp/chap6/cstring.cpp" "/home/archie/books/Cpp/chap6/string_tolower.cpp" "~/books/Cpp/chap6/ex17.cpp" "/home/archie/books/Cpp/chap3/ex17.cpp" "/home/archie/books/Cpp/chap6/find_captal.cpp" "/home/archie/books/Cpp/chap6/ex16.cpp" "/home/archie/books/Cpp/chap6/is_empty.cpp" "/home/archie/books/Cpp/chap6/is_sentence.cpp" "/home/archie/books/Cpp/chap6/test_find_char.cpp" "/home/archie/books/Cpp/chap6/find_char.cpp" "/home/archie/books/Cpp/chap6/test_swap.cpp" "/home/archie/books/Cpp/chap6/fact.c" "/home/archie/books/Cpp/chap6/test_fact.cpp" "/home/archie/books/Cpp/chap5/Sales_item.h" "/home/archie/books/Cpp/chap6/static_var.cpp" "/home/archie/books/Cpp/chap6/test_abs.cpp" "/home/archie/books/Cpp/chap6/abs.cpp" "/home/archie/books/Cpp/chap6/test_fact2.cpp" "/home/archie/books/Cpp/chap6/fact2.cpp" "~/books/Cpp/chap6/fact.c" "~/books/Cpp/chap6" "~/books/Cpp/chap5/ex25.cpp" "/home/archie/books/Cpp/chap2/ex25.cpp" "/home/archie/books/Cpp/chap5/ex23.cpp" "/home/archie/books/Cpp/chap5/excep_add2.cpp" "/home/archie/books/Cpp/chap5/excep_add.cpp" "/home/archie/books/Cpp/chap5/ex21.cpp" "/home/archie/books/Cpp/chap5/ex20.cpp" "/home/archie/books/Cpp/chap5/string_comp.cpp" "/home/archie/books/Cpp/chap5/sum_iter.cpp" "/home/archie/books/Cpp/chap5/prefix_vector.cpp" "/home/archie/books/Cpp/chap5/word_cnt.cpp" "/home/archie/books/Cpp/chap5/switch_decl.cpp" "/home/archie/books/Cpp/chap5/switch.cpp" "~/books/Cpp/chap5/letterGrade.cpp" "~/books/Cpp/chap5" "/home/archie/books/Cpp/chap4/ex33.cpp" "/home/archie/books/Cpp/chap4/typesize.cpp" "/home/archie/books/Cpp/chap4/grade_pass.cpp" "/home/archie/books/Cpp/chap4/ex21.cpp" "/home/archie/books/Cpp/chap4/text_newline.cpp" "/home/archie/books/Cpp/chap4/overflow.cpp" "~/books/Cpp/chap4/evalue_order.cpp" "~/books/Cpp/chap4" "/home/archie/books/Cpp/chap3/multiArray_print4.cpp" "/home/archie/books/Cpp/chap3/multiArray_print3.cpp" "/home/archie/books/Cpp/chap3/multiArray_print2.cpp" "/home/archie/books/Cpp/chap3/multiArray_print.cpp" "/home/archie/books/Cpp/chap3/multiArray_ptr3.cpp" "/home/archie/books/Cpp/chap3/array_comp" "/home/archie/books/Cpp/chap3/multiArray_ptr2.cpp" "/home/archie/books/Cpp/chap3/multiArray_ptr.cpp" "/home/archie/books/Cpp/chap3/multiArray_trav.cpp" "/home/archie/books/Cpp/chap3/vector_array.cpp" "/home/archie/books/Cpp/chap3/array_interface.cpp" "/home/archie/books/Cpp/chap3/array_copy.cpp" "/home/archie/books/Cpp/chap3/array_comp.cpp" "/home/archie/books/Cpp/chap3/array_print.cpp" "/home/archie/books/Cpp/chap3/exer35.cpp" "/home/archie/books/Cpp/chap3/exer34.cpp" "/home/archie/books/Cpp/chap3/array_iter.cpp" "/home/archie/books/Cpp/chap3/grade_cnt.cpp" "/home/archie/books/Cpp/chap3/grade_array.cpp" "/home/archie/books/Cpp/chap3/vector_traverse.cpp" "/home/archie/books/Cpp/chap3/arry_travese.cpp" "/home/archie/books/Cpp/chap3/test_stringLiteral.cpp" "/home/archie/books/Cpp/chap3/test_itr.cpp" "/home/archie/books/Cpp/chap3/ex24_2.cpp" "/home/archie/books/Cpp/chap3/ex24.cpp" "/home/archie/books/Cpp/chap3/binary_search.cpp" "/home/archie/books/Cpp/chap3/iterator_vec.cpp" "/home/archie/books/Cpp/chap3/vector_print.cpp" "/home/archie/books/Cpp/chap3/ex20.cpp" "/home/archie/books/Cpp/chap3/ex19.cpp" "/home/archie/books/Cpp/chap3/test_13.cpp" "/home/archie/books/Cpp/chap3/subscript_empty.cpp" "/home/archie/books/Cpp/chap3/push_back2.cpp" "/home/archie/books/Cpp/chap3/push_back.cpp" "/home/archie/books/Cpp/chap3/ex11.cpp" "/home/archie/books/Cpp/chap3/remove_punct.cpp" "~/books/Cpp/chap3/ex9.cpp" "/home/archie/books/Cpp/chap2/ex9.cpp" "/home/archie/books/Cpp/chap3/change_char3.cpp" "/home/archie/books/Cpp/chap3/change_char2.cpp" "/home/archie/books/Cpp/chap3/change_char.cpp" "/home/archie/books/Cpp/chap3/hex_print.cpp" "/home/archie/books/Cpp/chap3/subscript_iter.cpp" "/home/archie/books/Cpp/chap3/to_upper.cpp" "/home/archie/books/Cpp/chap3/punc_cnt.cpp" "/home/archie/books/Cpp/chap3/stringAdd3.cpp" "/home/archie/books/Cpp/chap3/stringAdd2.cpp" "/home/archie/books/Cpp/chap3/stringCompare.cpp" "/home/archie/books/Cpp/chap3/readWord.cpp" "/home/archie/books/Cpp/chap3/readLine_word.cpp" "/home/archie/books/Cpp/chap3/stringAdd.cpp"))
+(setq ido-last-directory-list '(("/home/archie/books/" . "chap1/") ("/home/archie/books/Cpp/" . "chap3/")))
+(setq ido-work-directory-list '("/home/archie/books/Cpp/chap7/" "/home/archie/books/Cpp/chap2/" "/home/archie/books/Cpp/chap5/" "/home/archie/books/Cpp/chap4/" "/home/archie/books/Cpp/chap3/" "/home/archie/books/" "/home/archie/books/Cpp/chap1/"))
+(setq ido-work-file-list '("bookStore.cpp" "ex25.cpp" "ex23.cpp" "excep_add2.cpp" "excep_add.cpp" "ex21.cpp" "ex20.cpp" "string_comp.cpp" "sum_iter.cpp" "prefix_vector.cpp"))
+(setq grep-history nil)
+(setq compile-history nil)
+(setq minibuffer-history '("make-directory" "mm-annotationp" "benchmark" "smie-indent-line" "butterfly" "make-face"))
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring '("\\_<cout\\_>"))
+(setq search-ring nil)
+(setq comint-input-ring nil)
+(setq shell-command-history nil)
+(setq desktop-missing-file-warning nil)
+(setq register-alist nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/archie/books/Cpp/chap7/Sales_data.hpp"
+  "Sales_data.hpp"
+  'c++-mode
+  '(abbrev-mode flx-ido-mode flymake-mode yas-minor-mode linum-mode undo-tree-mode evil-escape-mode guide-key-mode global-auto-revert-mode pointback-mode company-mode eldoc-mode fic-mode subword-mode hs-minor-mode ggtags-mode)
+  1994
+  '(1875 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/archie/books/Cpp/chap7/Person.Hpp"
+  "Person.Hpp"
+  'c++-mode
+  '(abbrev-mode flx-ido-mode flymake-mode yas-minor-mode linum-mode undo-tree-mode evil-escape-mode guide-key-mode global-auto-revert-mode pointback-mode company-mode eldoc-mode fic-mode subword-mode hs-minor-mode ggtags-mode)
+  524
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/archie/books/Cpp/chap7/bookStore.cpp"
+  "bookStore.cpp"
+  'c++-mode
+  '(abbrev-mode flx-ido-mode yas-minor-mode linum-mode undo-tree-mode evil-escape-mode guide-key-mode global-auto-revert-mode pointback-mode company-mode eldoc-mode fic-mode subword-mode hs-minor-mode ggtags-mode)
+  117
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/archie/books/Cpp/chap7/constructor_test.cpp"
+  "constructor_test.cpp"
+  'c++-mode
+  '(abbrev-mode flx-ido-mode yas-minor-mode linum-mode undo-tree-mode evil-escape-mode guide-key-mode global-auto-revert-mode pointback-mode company-mode eldoc-mode fic-mode subword-mode hs-minor-mode ggtags-mode)
+  347
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
